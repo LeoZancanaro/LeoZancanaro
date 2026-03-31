@@ -2,6 +2,8 @@
 
 ###
 
+I am a 18 years old brazilian Computer science student. Available for hire.
+
 <h2 align="left">My Techs</h2>
 
 ###
